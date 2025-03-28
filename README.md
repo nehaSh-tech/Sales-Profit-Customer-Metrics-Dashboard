@@ -58,7 +58,7 @@ README.md - This documentation file.
 
 Download the Excel file from this repository.
 
-Open the file in Microsoft Excel or Power BI.
+Open the file in Microsoft Excel .
 
 Use the interactive filters (Quarter/Month) to explore the data.
 
